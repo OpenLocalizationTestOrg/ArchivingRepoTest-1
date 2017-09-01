@@ -3,7 +3,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "archive-test1",
-      "build_source_folder": "archive-test1",
+      "build_source_folder": "archive-test2",
       "build_output_subfolder": ".",
       "locale": "en-us",
       "monikers": [],
